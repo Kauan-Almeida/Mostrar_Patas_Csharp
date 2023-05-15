@@ -1,0 +1,17 @@
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\bin\Debug\net6.0-windows\Projeto_Mostra_Patas.exe
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\bin\Debug\net6.0-windows\Projeto_Mostra_Patas.deps.json
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\bin\Debug\net6.0-windows\Projeto_Mostra_Patas.runtimeconfig.json
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\bin\Debug\net6.0-windows\Projeto_Mostra_Patas.dll
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\bin\Debug\net6.0-windows\Projeto_Mostra_Patas.pdb
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.csproj.AssemblyReference.cache
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.Animais.resources
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.csproj.GenerateResource.cache
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.AssemblyInfoInputs.cache
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.AssemblyInfo.cs
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.csproj.CoreCompileInputs.cache
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.dll
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\refint\Projeto_Mostra_Patas.dll
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.pdb
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\Projeto_Mostra_Patas.genruntimeconfig.cache
+C:\ws-C#\Projeto_Mostra_Patas\Projeto_Mostra_Patas\obj\Debug\net6.0-windows\ref\Projeto_Mostra_Patas.dll
